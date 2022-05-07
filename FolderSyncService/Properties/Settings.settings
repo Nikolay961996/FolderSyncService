@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FolderSyncService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServiceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FolderSyncService</Value>
+    </Setting>
+    <Setting Name="DisplayName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Folder Sync Service</Value>
+    </Setting>
+    <Setting Name="Description" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">This is a demo programm for sync two folders</Value>
+    </Setting>
+    <Setting Name="SyncPeriodMs" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="SourceFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\1katr\Downloads\TestSrc</Value>
+    </Setting>
+    <Setting Name="DestinationFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\1katr\Downloads\TestDst</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
